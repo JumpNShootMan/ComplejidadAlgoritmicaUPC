@@ -1,5 +1,5 @@
 import time
-import os
+import os 
 
 file = open("entrada.txt","r")
 maxima = int(file.readline().strip())
